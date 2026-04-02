@@ -81,7 +81,7 @@ I'm a **Systems Engineering student** passionate about building software that so
 </td>
 <td width="50%">
  
-### 🏛️ Chamber of Commerce Web App
+### 🏛️ Cámara de Comercio Web App
 **University Project · Lead Engineer**
 - SQL database with 300+ records
 - Backend powered by **Python + Flask**
