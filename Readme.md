@@ -17,7 +17,7 @@
 ```javascript
 const santiago = {
     location: "Cali, Colombia 🇨🇴",
-    education: "Systems Engineering @ Universidad Icesi (2027)",
+    education: "Systems Engineering @ Universidad Icesi (2028)",
     scholarship: "Merit-based Excellence Scholarship 🏅",
     languages: ["Spanish (Native)", "English (B2)", "Portuguese (Learning)"],
     currentlyLearning: "Always something new 🚀",
